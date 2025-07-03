@@ -49,7 +49,7 @@ This will generate an output file ***test.exe***. To run this file type ```./tes
 
 After this the programme will ask you the path of image which is to compressed. After you enter the required path, it will ask you to enter Y if you want to change the default threshold value and N if you want to go with default value only. This threshold value has been used for image compression. After giving the required inputs programme will diplay the percentage compression and display the original ans compressed image. The compressed file will also be saved with a name ***modified.jpeg*** in the directory where code is present. 
 
-The code will terminate as soon as you close the images
+The code will terminate as soon as you close the images.
 
 ---
 **Mentor**
